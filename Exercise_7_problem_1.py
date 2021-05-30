@@ -56,6 +56,7 @@ assert len(colors) == 1000, "There should be 1000 random numbers for colors"
 # #### Part 3.3
 # 
 
+
 # Plot a scatter plot
 # YOUR CODE HERE 3
 import matplotlib.pyplot as plt
