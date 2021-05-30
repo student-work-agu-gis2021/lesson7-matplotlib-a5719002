@@ -75,7 +75,6 @@ import os
 #Check that output file exists (also open the file and check that the plot looks ok!)
 os.path.exists(outputfp)
 
-
 # **REMINDER**: Don't forget to upload your figure and the modified notebook into your personal GitHub repository!
 # 
 # ### Done!
